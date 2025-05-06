@@ -54,6 +54,14 @@ Even-Odd-Numbers/
 
 ---
 
+## 🔗 View Demo
+
+[Click here to open the demo](https://abhishekdevelops.github.io/Even-Odd-Numbers)
+
+> After opening the page, right-click → **Inspect** → go to the **Console tab** to view the output.
+
+---
+
 ## 🛠️ Technologies Used
 
 - HTML (for structure)
